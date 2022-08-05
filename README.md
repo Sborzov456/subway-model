@@ -11,6 +11,6 @@
   After that, you can display the created metro through the graph visualization program Graphviz.
   </p>
   
-  There is a simple example:
-  </h2>
+  There is a simple example: <br>
   <img src = "https://github.com/Sborzov456/subway-model/blob/master/img/subway.png">
+  </h2>
