@@ -8,7 +8,6 @@
 #define MAX_T_LINES 3
 #define MAX_T_STATIONS 3
 
-
 using namespace std;
 class Station
 {
@@ -24,4 +23,4 @@ public:
 	Station* convertToTransitionHub(const Array<pair<string, string>, MAX_T_STATIONS>& trStations);
 	virtual void stationInformation() const;
 	
-};
+};;
