@@ -20,4 +20,4 @@ public:
 	Array<string, MAX_T_LINES>& getTransitionLines() { return transitionLines; }
 	void setTransitionLines(const string& trLine) { transitionLines += trLine; }
 	void stationInformation() const override;
-};
+};;
