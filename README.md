@@ -26,9 +26,14 @@
   <h2> :pushpin: Template Array </h2>
   <p>
   The TemplateArray.h file contains two self-written classes: a template array of constant length and an iterator for this class. <br>
-    <h3> :heavy_exclamation_mark: Iterator methods: </h3> <br>
+    <h3> :heavy_exclamation_mark: Iterator methods: </h3>
     :white_check_mark: Overloaded operator == <br>
     :white_check_mark: Overloaded operator != <br>
     :white_check_mark: Overloaded operator ++ <br>
     :white_check_mark: Overloaded operator * <br>
+    <h3> :heavy_exclamation_mark: Array methods: </h3>
+    :white_check_mark: size (return size of array) <br>
+    :white_check_mark: empty (returns true, if array is empty and false otherwise) <br>
+    :white_check_mark: full (returns true, if array is full and false otherwise) <br>
+    :white_check_mark: find (returns the index of the searched element :heavy_exclamation_mark: WILL WORK ONLY WITH CLASSES WITH OVERLOADED OPERATOR == ) <br>
   </p>
