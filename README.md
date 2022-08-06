@@ -15,12 +15,13 @@
   <p>
   :pushpin: Options: <br> <br> 
   
-    :heavy_check_mark: Add line <br> <br>
-    :white_check_mark: Add station <br>
-    :white_check_mark: Convert type of station <br>
-    :white_check_mark: Edit station <br>
-    :white_check_mark: Print in console <br>
-    :white_check_mark: Draw in Graphviz <br>
-    :white_check_mark: Run complete test <br>
+    Add line <br> <br>
+    Add station <br>
+    Convert type of station <br>
+    Edit station <br>
+    Print in console <br>
+    Draw in Graphviz <br>
+    Run complete test <br>
+    
   </p>
   </h2>
