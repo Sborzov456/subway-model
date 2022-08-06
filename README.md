@@ -14,12 +14,10 @@
   
   <p>
   Used:
-    <h3>
     STL: <br>
     1) vector <br>
     2) string <br>
     SELF-WRITTEM: <br>
     1) template array class with iterator
-    </h3>
   </p> 
   </h2>
