@@ -11,9 +11,8 @@
   
   There is a simple example: <br> <br>
   <img src = "https://github.com/Sborzov456/subway-model/blob/master/img/subway.png">
-  </h2>
   
-  <h2>
+  <p>
   :pushpin: Options: <br> <br> 
   
     :heavy_check_mark: Add line <br> <br>
@@ -23,5 +22,5 @@
     :white_check_mark: Print in console <br>
     :white_check_mark: Draw in Graphviz <br>
     :white_check_mark: Run complete test <br>
-  
+  </p>
   </h2>
