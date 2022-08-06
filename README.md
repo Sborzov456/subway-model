@@ -12,7 +12,7 @@
   There is a simple example: <br> <br>
   <img src="https://github.com/Sborzov456/subway-model/blob/master/img/subway.png">
   
-  <h2>:pushpin: Options: </h2>
+  <h2> :pushpin: Options: </h2>
   <p>
     :white_check_mark: Add line <br>
     :white_check_mark: Add station <br>
@@ -22,4 +22,13 @@
     :white_check_mark: Draw in Graphviz <br>
     :white_check_mark: Run complete test <br> 
   </p>
-  </h2>
+  
+  <h2> :pushpin: Template Array </h2>
+  <p>
+  The TemplateArray.h file contains two self-written classes: a template array of constant length and an iterator for this class. <br>
+    <h3> :heavy_exclamation_mark: Iterator methods: </h3> <br>
+    :white_check_mark: Overloaded operator == <br>
+    :white_check_mark: Overloaded operator != <br>
+    :white_check_mark: Overloaded operator ++ <br>
+    :white_check_mark: Overloaded operator * <br>
+  </p>
