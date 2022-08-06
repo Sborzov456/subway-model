@@ -15,13 +15,13 @@
   <img src="https://github.com/Sborzov456/subway-model/blob/master/img/subway.png">
   
   <p>
-  :pushpin: Options: <br> <br> 
+  :pushpin: Options: <br> <br> <pre>
     :white_check_mark: Add line <br>
     :white_check_mark: Add station <br>
     :white_check_mark: Convert type of station <br>
     :white_check_mark: Edit station <br>
     :white_check_mark: Print in console <br>
     :white_check_mark: Draw in Graphviz <br>
-    :white_check_mark: Run complete test <br>
+    :white_check_mark: Run complete test <br> </pre>
   </p>
   </h2>
