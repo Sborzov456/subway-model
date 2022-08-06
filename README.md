@@ -16,7 +16,7 @@
   <h2>
   :pushpin: Options: <br> <br> 
   
-    :heavy_check_mark: Add line <br>
+    :heavy_check_mark: Add line <br> <br>
     :white_check_mark: Add station <br>
     :white_check_mark: Convert type of station <br>
     :white_check_mark: Edit station <br>
