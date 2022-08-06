@@ -11,13 +11,4 @@
   
   There is a simple example: <br> <br>
   <img src = "https://github.com/Sborzov456/subway-model/blob/master/img/subway.png">
-  
-  <p>
-  Used: <br>
-    STL: <br>
-    1) vector <br>
-    2) string <br>
-    SELF-WRITTEM: <br>
-    1) template array class with iterator
-  </p> 
   </h2>
