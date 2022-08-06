@@ -1,4 +1,4 @@
-<h1> Model of Subway :bullettrain_side: </h1>
+<title> Model of Subway :bullettrain_side: </title>
   <h2>
   <p>
   <big> Short Description </big> 
