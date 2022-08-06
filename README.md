@@ -35,5 +35,5 @@
     :white_check_mark: size (return size of array) <br>
     :white_check_mark: empty (returns true, if array is empty and false otherwise) <br>
     :white_check_mark: full (returns true, if array is full and false otherwise) <br>
-    :white_check_mark: find (returns the index of the searched element   :heavy_exclamation_mark: WILL WORK ONLY WITH CLASSES WITH OVERLOADED OPERATOR == ) <br>
+    :white_check_mark: find (returns the index of the searched element :heavy_exclamation_mark: WILL WORK ONLY WITH CLASSES WITH OVERLOADED OPERATOR == :heavy_exclamation_mark:) <br>
   </p>
