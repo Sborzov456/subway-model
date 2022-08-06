@@ -3,7 +3,7 @@
   <h2>
   
   <p>
-  :pushpin: # Short Description: # <br> <br>
+  :pushpin: <big> Short Description: </big> <br> <br>
   With the help of a dialogue program with a console, you can create metro lines and add three types of stations to them: <br> 
   1) Regular station <br>
   2) Station with a transition to another station <br> 
