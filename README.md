@@ -23,4 +23,5 @@
     :white_check_mark: Print in console <br>
     :white_check_mark: Draw in Graphviz <br>
     :white_check_mark: Run complete test <br>
+  </pre>
   </h2>
