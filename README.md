@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <h1> Model of Subway :bullettrain_side: </h1>
-  :pushpin: <h1> Short Description: </h1> <br> <br>
-  <h2>
+  :pushpin: <h2> Short Description: </h2>
+  <p>
   With the help of a dialogue program with a console, you can create metro lines and add three types of stations to them: <br> 
   1) Regular station <br>
   2) Station with a transition to another station <br> 
