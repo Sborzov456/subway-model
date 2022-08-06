@@ -13,11 +13,13 @@
   <img src = "https://github.com/Sborzov456/subway-model/blob/master/img/subway.png">
   
   <p>
-  Used: <br> <br>
-    STL: <br> <br>
+  Used:
+    <h3>
+    STL: <br>
     1) vector <br>
     2) string <br>
-    SELF-WRITTEM: <br> <br>
-    1) array class with iterator
+    SELF-WRITTEM: <br>
+    1) template array class with iterator
+    </h3>
   </p> 
   </h2>
