@@ -14,7 +14,7 @@
   </h2>
   
   <h2>
-  Options: <br> 
+  :white_check_mark: Options: <br> 
   
     :heavy_check_mark: Add line <br>
     :white_check_mark: Add station <br>
