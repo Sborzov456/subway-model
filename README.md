@@ -1,4 +1,4 @@
-<!doctype html>
+<!DOCTYPE html>
 <h1> Model of Subway :bullettrain_side: </h1>
   <h2>
   <p>
@@ -11,7 +11,7 @@
   </p>
   
   There is a simple example: <br> <br>
-  <img src = "https://github.com/Sborzov456/subway-model/blob/master/img/subway.png">
+  <img src="https://github.com/Sborzov456/subway-model/blob/master/img/subway.png">
   
   <p>
   :pushpin: Options: <br> <br> 
