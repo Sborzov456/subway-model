@@ -32,9 +32,9 @@
   
 ### :heavy_exclamation_mark: Array methods: 
 
-  - [x] size (return size of array) 
-  - [x] empty (returns true, if array is empty and false otherwise) 
-  - [x] full (returns true, if array is full and false otherwise) 
-  - [x] find (returns the index of the searched element :heavy_exclamation_mark: WILL WORK ONLY WITH CLASSES WHICH OPERATOR == IS OVERLOADED :heavy_exclamation_mark:) 
+  - [x] `size` (return size of array) 
+  - [x] `empty` (returns true, if array is empty and false otherwise) 
+  - [x] `full` (returns true, if array is full and false otherwise) 
+  - [x] `find` (returns the index of the searched element :heavy_exclamation_mark: WILL WORK ONLY WITH CLASSES WHICH OPERATOR == IS OVERLOADED :heavy_exclamation_mark:) 
   
   
