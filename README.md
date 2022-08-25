@@ -1,40 +1,40 @@
-<!DOCTYPE html>
-<h1> Model of Subway :bullettrain_side: </h1>
-  <h2> :pushpin: Short Description: </h2>
-  <p>
-  With the help of a dialogue program with a console, you can create metro lines and add three types of stations to them: <br> 
-  :white_check_mark: Regular station <br>
-  :white_check_mark: Station with a transition to another station <br> 
-  :white_check_mark: Transfer hub. <br>
-  After that, you can display the created metro through the graph visualization program Graphviz.
-  </p>
+# Model of Subway :bullettrain_side:
+## :pushpin: Short Description:
+  With the help of a dialogue program with a console, you can create metro lines and add three types of stations to them:
   
-  There is a simple example: <br> <br>
-  <img src="https://github.com/Sborzov456/subway-model/blob/master/img/subway.png">
+  - [x] **Regular station** 
+  - [x] **Station with a transition to another station** 
+  - [x] **Transfer hub**
   
-  <h2> :pushpin: Options: </h2>
-  <p>
-    :white_check_mark: Add line <br>
-    :white_check_mark: Add station <br>
-    :white_check_mark: Convert type of station <br>
-    :white_check_mark: Edit station <br>
-    :white_check_mark: Print in console <br>
-    :white_check_mark: Draw in Graphviz <br>
-    :white_check_mark: Run complete test <br> 
-  </p>
+  After that, you can display the created metro through the graph visualization program ***Graphviz***.
+  There is a simple example:
   
-  <h2> :pushpin: Template Array </h2>
-  <p>
+  ![Example](https://github.com/Sborzov456/subway-model/blob/master/img/subway.png) 
+  
+## :pushpin: Options:
+    
+  - [x] `add line` 
+  - [x] `add station` 
+  - [x] `convert type of station` 
+  - [x] `edit station` (for example, add a new transition to another station) 
+  - [x] `print in console` 
+  - [x] `draw in Graphviz` 
+  - [x] `run complete test` 
+  
+## :pushpin: Template Array 
   The TemplateArray.h file contains two self-written classes: a template array of constant length and an iterator for this class. <br>
-    <h3> :heavy_exclamation_mark: Iterator methods: </h3>
-    :white_check_mark: Overloaded operator == <br>
-    :white_check_mark: Overloaded operator != <br>
-    :white_check_mark: Overloaded operator ++ <br>
-    :white_check_mark: Overloaded operator * <br>
-    <h3> :heavy_exclamation_mark: Array methods: </h3>
-    :white_check_mark: size (return size of array) <br>
-    :white_check_mark: empty (returns true, if array is empty and false otherwise) <br>
-    :white_check_mark: full (returns true, if array is full and false otherwise) <br>
-    :white_check_mark: find (returns the index of the searched element :heavy_exclamation_mark: WILL WORK ONLY WITH CLASSES WHICH OPERATOR == IS OVERLOADED :heavy_exclamation_mark:) <br>
-  </p>
+### :heavy_exclamation_mark: Iterator methods:
+
+  - [x] Overloaded `operator ==`
+  - [x] Overloaded `operator !=` 
+  - [x] Overloaded `operator ++` 
+  - [x] Overloaded `operator *` 
+  
+### :heavy_exclamation_mark: Array methods: 
+
+  - [x] size (return size of array) 
+  - [x] empty (returns true, if array is empty and false otherwise) 
+  - [x] full (returns true, if array is full and false otherwise) 
+  - [x] find (returns the index of the searched element :heavy_exclamation_mark: WILL WORK ONLY WITH CLASSES WHICH OPERATOR == IS OVERLOADED :heavy_exclamation_mark:) 
+  
   
