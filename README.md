@@ -1,5 +1,5 @@
 # Model of Subway :bullettrain_side:
-## :pushpin: Short Description:
+## :pushpin: Short Description
   With the help of a dialogue program with a console, you can create metro lines and add three types of stations to them:
   
   - [x] **Regular station** 
@@ -11,7 +11,7 @@
   
   ![Example](https://github.com/Sborzov456/subway-model/blob/master/img/subway.png) 
   
-## :pushpin: Options:
+## :pushpin: Options
     
   - [x] `add line` 
   - [x] `add station` 
@@ -30,7 +30,7 @@
   - [x] Overloaded `operator ++` 
   - [x] Overloaded `operator *` 
   
-### :heavy_exclamation_mark: Array methods: 
+### :heavy_exclamation_mark: Array methods
 
   - [x] `size` (return size of array) 
   - [x] `empty` (returns true, if array is empty and false otherwise) 
